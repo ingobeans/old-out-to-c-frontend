@@ -1,6 +1,6 @@
 # Out to C
 
-this was just the draft for my YSWS which runs 14th Aug to 7th Sept (2026).
+this was just the draft for my YSWS which ran 14th Aug to 30th Sept (2026).
 
 the full app with the backend is at [hackclub/out-to-c](https://github.com/hackclub/out-to-c)
 
